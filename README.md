@@ -23,9 +23,16 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvi-Parasakthi-K&theme=radical" />
-</p>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=Selvi-Parasakthi-K&theme=radical&align=center)](https://git.io/streak-stats)
+
+</div>
+<br/>
+    <a href="https://github.com/Selvi-Parasakthi-K/github-readme-stats"><img alt="Selvi's Github Stats" src="https://github-readme-stats-tv1x.vercel.app/api?username=Selvi-Parasakthi-K&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Selvi-Parasakthi-K/github-readme-stats"><img alt="Selvi's Top Languages" src="https://github-readme-stats-tv1x.vercel.app/api/top-langs/?username=Selvi-Parasakthi-K&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 ---
 
