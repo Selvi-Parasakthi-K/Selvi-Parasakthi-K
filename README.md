@@ -41,22 +41,22 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Selvi-Parasakthi-K&show_icons=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvi-Parasakthi-K&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvi-Parasakthi-K&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Selvi-Parasakthi-K&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
