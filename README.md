@@ -26,8 +26,12 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvi-Parasakthi-K&theme=radical" />
 </p>
+
+---
+
+## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Selvi-Parasakthi-K&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Selvi-Parasakthi-K&limit=4&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
