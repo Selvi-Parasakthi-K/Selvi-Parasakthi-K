@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Selvi Parasakthi</h1>
-<h3 align="center">Software Developer | Frontend Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer | Frontend Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=fe428e&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer;Passionate+about+Clean+UI+%26+Performance;Always+Learning+New+Tech!" />
