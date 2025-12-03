@@ -22,15 +22,6 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Selvi-Parasakthi-K&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvi-Parasakthi-K&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvi-Parasakthi-K&theme=radical" />
@@ -54,11 +45,11 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/selvi-parasakthi-k-26baba27a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:selviparasakthik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
