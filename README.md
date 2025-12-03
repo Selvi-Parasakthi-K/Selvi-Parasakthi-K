@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Frontend Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00B3FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer;Passionate+about+Clean+UI+%26+Performance;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=fe428e&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer;Passionate+about+Clean+UI+%26+Performance;Always+Learning+New+Tech!" />
 </p>
 
 ---
