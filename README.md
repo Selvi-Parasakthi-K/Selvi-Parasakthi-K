@@ -36,20 +36,6 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 
 ---
 
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Selvi-Parasakthi-K&limit=4&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Selvi-Parasakthi-K&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
 ## ✍️ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
