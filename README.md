@@ -16,24 +16,8 @@ I specialize in crafting **high-performance frontends** and also contribute to b
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,html,css,js,ts" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,redis,figma" />
+  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,html,css,js,ts,nodejs,dotnet,mongodb,postgres,azure,git,github,redis,figma" />
 </p>
 
 ---
