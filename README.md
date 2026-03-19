@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** with over **1 year of experience** building modern, efficient, and scalable web applications.
+I'm a passionate **Software Developer** around **2 year of experience** building modern, efficient, and scalable web applications.
 
 I specialize in crafting **high-performance frontends** and also contribute to backend systems with solid API development and database design. I focus heavily on **clean architecture, speed optimization, and reusable component design**.
 
